@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Kokemus Design blog
 ---
 
+> anything and everything about mobile development
