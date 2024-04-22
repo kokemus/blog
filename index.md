@@ -1,5 +1,5 @@
 ---
-title: Mobile development blog
+title: Mobile Development
 ---
 
 > anything and everything about mobile development
